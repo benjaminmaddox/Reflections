@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Viewing a diff between two files can be very important if you're programing something, where one line of code could completely break everything. Tools such as diff make it easy to see what got changed in every version of the code, so using this it makes it much easier to spot what shoudn't have been changed between two versions of code.
+
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Having access to the history of code is really useful for a few reasons. One is that you can tell easier what some parts of the code are for if you forget or take a break from the project. Th other is that you can more easily spot bugs or glitches in the code so that you can get them out of the way and get back to programing.
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Some of the pros of manual saving are that you can more easily look through the change history and see major changes that happen, rather than having it be flooded with pointless versions with minor changes. Another pro is that you can save when you feel it's really neccessary, and work on a project more at your own pace. Some cons of saving manually include that you could occasionally forget to save a commit or some commits might have to many changes to look through.
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+It can be more helpful for some files to group them together instead of just putting them all together. Some files are more heavily related to one another that others, so viewing each indivdually can be tedious when you could group files that are related together.
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+-
+
+
+
+How might using version control make you more confident to make changes that could break something?
+
+-
+
+
