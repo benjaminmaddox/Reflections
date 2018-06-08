@@ -24,12 +24,12 @@ It can be more helpful for some files to group them together instead of just put
 
 How can you use the commands git log and git diff to view the history of files?
 
--
+You can use git log to view the entire history of every commit in a project, along with the description for every commit. Git diff can show more in detail the differences in every file that was in that commit. This tools in combination can show how the history has changed over time.
 
 
 
 How might using version control make you more confident to make changes that could break something?
 
--
+You can always check out an older version of a code using git diff to see the differences in what you changed in case you want to change something back or if there's a big mistake in some code that causes an error you can more easily find out what went wrong. 
 
 
